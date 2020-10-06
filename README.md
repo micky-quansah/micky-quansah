@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm Michael Quansah, a Computing Physics student. When I a
 
 ### 💡 Goals for 2020:
 - Finish my first app with both react and angular, and deploy it
-- Learn the basics web security and network security
+- Learn the basics of web security and network security
 - Become a skilled web developer
 - Grow as a person
 
