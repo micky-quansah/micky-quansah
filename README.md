@@ -31,8 +31,5 @@ Welcome to my GitHub! I'm Michael Quansah, a Computing Physics student. When I a
 - Become a skilled web developer
 - Grow as a person
 
-### ⚡ Relevant achievement
-- Develop a website that would help solve a relevant problem in our society
-
 ### 🛠 Interested in:
 - Reading almost anything on hacking and network security, web development, graphics design and basically anything that has something to do about human Psychology
