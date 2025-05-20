@@ -28,3 +28,4 @@ Hey there! I'm Michael Quansah, a Computing Physics student exploring the inters
 - Exploring the realms of hacking and network security.
 - Diving into web development and graphics design.
 - Fascinated by anything related to human psychology.
+- Passionate about computational algorithms.
