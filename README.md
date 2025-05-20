@@ -15,21 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I'm Michael Quansah, a Computing Physics student. When I am not studying or programming, I like to read, listen to music and catch up on some world and local news, I like to read about motivational, human Psychology and fictional crime books. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Hey there! I'm Michael Quansah, a Computing Physics student exploring the intersection of computation and the physical world. When I'm not coding or studying, you can find me diving into books on physics, psychology, or history, catching a sitcom, or keeping up with current events. I'm also passionate about creating cool things with programming, discovering new music, and sharing experiences with friends. Welcome to my GitHub!
 
-### ✔️ I'm currently learning
-- React (web app)
-- Angular (web apps)
-- MongoDB
+### 😍 What I like to do:
+- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing, and living !!!
 
-### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
-
-### 💡 Goals for 2020:
-- Finish my first app with both react and angular, and deploy it
-- Learn the basics of web security and network security
-- Become a skilled web developer
-- Grow as a person
+### 💡 Goals:
+- Aspiring to become a skilled program developer.
+- Driven to develop and contribute a significant computational algorithm to the world.
 
 ### 🛠 Interested in:
-- Reading almost anything on hacking and network security, web development, graphics design and basically anything that has something to do about human Psychology
+- Exploring the realms of hacking and network security.
+- Diving into web development and graphics design.
+- Fascinated by anything related to human psychology.
